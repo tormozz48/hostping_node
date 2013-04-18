@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <repeat-interval>60</repeat-interval>    
+    <host>http://hostping.herokuapp.com</host>
+	<host>http://homefinance.herokuapp.com</host>
+	<host>http://daryatoys.herokuapp.com</host>   	       
+</root>	
