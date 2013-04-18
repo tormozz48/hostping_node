@@ -6,7 +6,7 @@ This is utility node js application for ping remote hosts.
 ##Installation
 
 
-Copy content of repository by running git command git clone https://github.com/tormozz48/hostping_node.git
+Copy content of repository by running git command ```git clone https://github.com/tormozz48/hostping_node.git```
 
 Move to application folder hostping_node
 

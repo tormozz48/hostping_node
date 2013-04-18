@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "request": "*",
-    "libxmljs": "*"
+    "request": "~2.16.7",
+    "libxmljs": "~0.7.1"
   }
 }
